@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Обыкновенный студент-программист. Таких много сейчас развелось. Занимаюсь web'ом, python'ом и NLP сферой. Чуть-чуть там, чуть-чуть там. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Интересуюсь всем понемногу. Люблю книги и чай.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alesnim@gmail.com](mailto:alesnim@gmail.com)
