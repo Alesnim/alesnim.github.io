@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Больше обо мне
 permalink: /about/
 ---
 
 Обыкновенный студент-программист. Таких много сейчас развелось. Занимаюсь web'ом, python'ом и NLP сферой. Чуть-чуть там, чуть-чуть там. 
 
-### More Information
+### Еще чуть-чуть информации
 
 Интересуюсь всем понемногу. Люблю книги и чай.
 
-### Contact me
+### Пишите письма
 
 [alesnim@gmail.com](mailto:alesnim@gmail.com)
